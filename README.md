@@ -32,4 +32,4 @@ git clone ...
 
 ## References
 
-[Dataset and data dictionary]: https://archive.ics.uci.edu/ml/datasets/Student+Performance#
+Dataset and data dictionary: https://archive.ics.uci.edu/ml/datasets/Student+Performance#
